@@ -63,13 +63,6 @@ This will:
 3. Run the queries in `mental_health_analysis_queries.sql` to explore trends.
 4. Open `Emloyee_mental_health_analysis.pbix` in Power BI for interactive dashboards.
 
-## Notes
-
-- The cleaning script currently fills missing `mental_health_condition` values with `Not available`.
-- It also fills missing `employer_support_level` values with the dataset mode.
-- The script drops `used_eap` and `workplace_stigma_felt` columns before export.
-
-## Next Improvements
 
 - add more robust data validation and error handling
 - modularize the Python script into functions
