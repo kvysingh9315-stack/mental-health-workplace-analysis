@@ -64,8 +64,3 @@ This will:
 4. Open `Emloyee_mental_health_analysis.pbix` in Power BI for interactive dashboards.
 
 
-- add more robust data validation and error handling
-- modularize the Python script into functions
-- add visualization directly in Python using `matplotlib` or `seaborn`
-- document column definitions and expected value ranges
-- build a reproducible data pipeline for cleaning, analysis, and reporting
